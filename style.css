@@ -1,0 +1,71 @@
+.logoheader {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(41, 88, 243);
+  padding-left: 30px;
+  padding-right: 30px;
+  color: aliceblue;
+  border-radius: 5px;
+}
+.paragraphe1 {
+  font-size: large;
+  color: rgb(23, 23, 248);
+  margin: 20px;
+}
+.divParagraphe1 {
+  width: 350px;
+}
+.descriptionHeader {
+  width: 30%;
+  margin: 20px;
+}
+.main {
+  display: block;
+  background-color: rgb(41, 88, 243);
+  width: 750px;
+  height: 200px;
+  text-align: center;
+  justify-content: center;
+  color: aliceblue;
+  border-radius: 15px;
+}
+.containermain {
+  display: flex;
+  justify-content: center;
+}
+.savoirPlus {
+  justify-content: center;
+  background-color: aliceblue;
+
+  text-align: center;
+}
+.footer {
+  background-color: rgb(41, 88, 243);
+  padding: 5px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.footer1 {
+  color: aliceblue;
+}
+.footer2 {
+  text-align: center;
+  color: aliceblue;
+}
+.mainPop {
+  display: block;
+  background-color: rgb(41, 88, 243);
+  width: 200px;
+  height: 250px;
+  text-align: center;
+  justify-content: center;
+  color: aliceblue;
+  border-radius: 15px;
+}
+.containerProps {
+  display: flex;
+  justify-content: center;
+}
+.mainPop {
+  margin: 20px;
+}
